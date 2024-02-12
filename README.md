@@ -10,23 +10,6 @@ Clone this repository to your local machine.
    ```bash
    git clone https://github.com/your-username/your-repo.git
 ```
-
-Certainly, here's the markdown content in one block:
-
-markdown
-Copy code
-# Text-to-Query Translator for Data Extraction
-
-## Description
-This project demonstrates a text-to-query translator that allows users to input natural language queries and retrieve data from an SQLite database using Google Geminai. The application utilizes Streamlit to create an interactive web interface.
-
-## Installation
-To run this project, ensure you have Python 3 installed on your system. Then, follow these steps:
-
-Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-```
    
 # Navigate to the project directory.
 ```bash
