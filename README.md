@@ -15,9 +15,6 @@ Clone this repository to your local machine.
    
 ## Navigate to the project directory.
 ```bash
-cd your-repo
-```
-```bash
 python3 -m venv venv
 ```
 For Windows:
