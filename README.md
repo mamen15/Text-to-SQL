@@ -15,11 +15,8 @@ Clone this repository to your local machine.
 ```bash
 cd your-repo
 ```
-Create a virtual environment (optional but recommended).
-
 ```bash
 python3 -m venv venv
-Activate the virtual environment.
 ```
 For Windows:
 ```bash
