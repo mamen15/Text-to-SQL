@@ -1,5 +1,7 @@
 # Text-to-Query Translator for Data Extraction
 
+## config 
+you will find my configuration in : ``` pyvenv.cfg ```
 ## Description
 This project demonstrates a text-to-query translator that allows users to input natural language queries and retrieve data from an SQLite database using Google Gemini. The application utilizes Streamlit to create an interactive web interface.
 
