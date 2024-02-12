@@ -6,7 +6,7 @@ This project demonstrates a text-to-query translator that allows users to input 
 ## Installation
 To run this project, ensure you have Python 3 installed on your system. Then, follow these steps:
 
-1. Clone this repository to your local machine.
+Clone this repository to your local machine.
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
