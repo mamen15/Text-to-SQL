@@ -1,7 +1,7 @@
 # Text-to-Query Translator for Data Extraction
 
 ## Description
-This project demonstrates a text-to-query translator that allows users to input natural language queries and retrieve data from an SQLite database using Google Geminai. The application utilizes Streamlit to create an interactive web interface.
+This project demonstrates a text-to-query translator that allows users to input natural language queries and retrieve data from an SQLite database using Google Gemini. The application utilizes Streamlit to create an interactive web interface.
 
 ## Installation
 To run this project, ensure you have Python 3 installed on your system. Then, follow these steps:
